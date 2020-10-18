@@ -7,8 +7,8 @@ TELEPATH is a crawler that allows user to receive Telegram messages if there is 
 
 ## 0. 실행 전 설정 Prerequisites
 1. TELEPATH 다운로드 Download TELEPATH
-    1. [TELEPATH 최신 릴리즈]()를 다운로드하고 압축을 해제합니다.  
-Download [latest TELEPATH release]() and unzip it.
+    1. [TELEPATH 최신 릴리즈](https://github.com/luftaquila/telepath/releases/)를 다운로드하고 압축을 해제합니다.  
+Download [latest TELEPATH release](https://github.com/luftaquila/telepath/releases/) and unzip it.
 
 1. 크롬드라이버 다운로드 Download chromedriver
     * TELEPATH를 실행하기 위해서는 구글 크롬 및 크롬드라이버가 필요합니다.  
@@ -35,3 +35,5 @@ Enter your ROS-BOT ID and password to `id=` and `pw=`, which located in `[user]`
         1. `config.ini`의 `[rover]` 섹션에 있는 `refresh=` 다음에 TELEPATH의 새로고침 간격을 초 단위 숫자로 입력합니다.
 Enter your TELEPATH's refresh rate in seconds after `refresh=`, which located in `[rover]` section of `config.ini`.
 
+## 실행 Run TELEPATH
+`telepath.exe`를 실행합니다.
