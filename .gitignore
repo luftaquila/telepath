@@ -1,0 +1,3 @@
+.env
+rover/config-sample.ini
+node_modules
